@@ -1,8 +1,7 @@
-#Author: Kirti Sinha
 #Dated: 08-October-2016
-#This program was part of Udacity assessment for Self-driving Car nanodegree program
-#
-# In this progam a string and a number was given as input and
+
+# In this progam a string and a number was given as input and you have to find
+# the top n elements of string
 
 from collections import Counter
 import operator
